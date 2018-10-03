@@ -5,9 +5,9 @@ Repositório para o projeto de pesquisa sendo desenvolvido no Mestrado em Ciênc
 
 ### Conteúdo
 
-- history.txt: The version history of the package;
-- llncs.cls: The LaTeX2e document class;
-- Samplepaper.tex: a sample paper;
-- llncsdoc.pdf: The documentation of the class (PDF version);
-- splncs04.bst: Current LNCS BibTeX style with alphabetic sorting.
+- history.txt: Histórico de versionamento;
+- llncs.cls: A classe LaTeX2edo documento;
+- Samplepaper.tex: Exemplo de paper;
+- llncsdoc.pdf: Documentação da classe (PDF);
+- splncs04.bst: LNCS BibTeX estilo com ordenação alfabetica.
 
